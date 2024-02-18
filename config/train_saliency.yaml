@@ -1,4 +1,4 @@
-name: train_salence_new
+name: train_saliency
 model:
   base_learning_rate: 1.0e-04
   target: ldm.models.diffusion.ddpm.LatentDiffusion
